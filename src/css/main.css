@@ -1,0 +1,18 @@
+.img-container {
+  overflow: hidden;
+  height: 200px; 
+  margin-top: 10px;
+}
+
+.custom-img-class {
+  width: 100%;
+  height: 200px;
+  object-fit: cover; 
+  border: 3px solid whitesmoke;
+  border-radius: 1%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.416);
+}
+
+.custom-img-class.selected {
+  border-color: rgb(255, 0, 72); /* Change border color when image is selected */
+}
