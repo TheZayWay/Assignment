@@ -14,5 +14,5 @@
 }
 
 .custom-img-class.selected {
-  border-color: rgb(255, 0, 72); /* Change border color when image is selected */
+  border-color: rgb(255, 0, 72);
 }
